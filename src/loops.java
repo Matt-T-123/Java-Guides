@@ -15,5 +15,9 @@ public class loops {
 		for (String string : args) { //for (each item in a set of items)
 			//Every time there is an item in the set of items, the code in here will run
 		}
+
+		do { 
+			//Here will be your code that will run as long as the condition below is met
+		} while (true); // while(this condition is met) run everything inside || You can also use an iterator as a condition
 	}
 }
